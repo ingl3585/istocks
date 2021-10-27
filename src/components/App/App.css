@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    background-color: #6532CB;
+    color: white;
+    height: 5vh;
+    align-items: center;
+}
+
+.nav-item {
+    padding-left: 10px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
